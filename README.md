@@ -1,6 +1,6 @@
 # 📊 Market Access AI Analytics Assistant!
 
-An AI-enabled Market Access analytics prototype that combines **LLM-powered natural-language SQL generation** with **SQL and Pandas-based analytics** to analyze synthetic healthcare claims data.
+An AI-enabled Market Access analytics prototype that combines **LLM-powered natural-language SQL generation** with **SQL and Pandas-based analytics** to analyze the synthetic healthcare claims data.
 
 The application allows users to ask business questions in natural language such as:
 
