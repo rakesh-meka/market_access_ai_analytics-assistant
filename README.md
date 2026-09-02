@@ -28,8 +28,6 @@ Market Access analytics teams work with large datasets involving:
 
 This project demonstrates how **AI + traditional analytics** can be combined to make this type of analysis easier and faster.
 
-The application provides:
-
 1. Interactive Market Access dashboard
 2. Claims data exploration
 3. Natural-language-to-SQL analytics
