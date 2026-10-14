@@ -6,7 +6,7 @@ The application allows users to ask business questions in natural language such 
 
 > "Which payer has the highest rejection rate?"
 
-The system uses a **Groq LLM** to translate the question into SQL, validates the generated query and executes it against the claims dataset to return analytical insights.
+The system uses a **Groq LLM** to translate the question into SQL,it validates the generated query and executes it against the claims dataset to return analytical insights.
 
 ## LIVE PROJECT LINK : https://market-access-analytics.streamlit.app/
 ---
